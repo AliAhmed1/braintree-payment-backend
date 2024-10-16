@@ -1,4 +1,4 @@
-BrainTree payment App is created to test credit Card payment functionality
-to run, .env and node_modules are required
+Braintree payment App is created to test credit Card payment functionality
+to run, .env and node_modules are required to test the application fully.
 
-starting local env using nodemon index.js
+starting local env using running cmd nodemon index.js
